@@ -1,6 +1,6 @@
 FROM alpine:3.8
 
-ARG VERSION=0.45.0
+ARG VERSION=0.49.0
 ENV TZ=Asia/Shanghai
 WORKDIR /
 
